@@ -1,0 +1,9 @@
+<a href="{{ p.url }}">
+  {% if p.screenshot %}
+    <img src="/images/goal/{{ p.screenshot }}" class="thumbnail">
+  {% endif %}
+</a>
+<div>
+  <h3><a href="{{ p.url }}">{{ p.title }}</a></h3>
+  <p>{{ p.summary }}</p>
+</div>

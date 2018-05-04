@@ -1,0 +1,7 @@
+<ul class="goal-sites">
+  {% for p in site.goal limit:page.goal_limit %}
+    <li class="goal-site {% for tag in p.tags %}{{ tag }} {% endfor %}">
+      {% include goal-item.html %}
+    </li>
+  {% endfor %}
+</ul>

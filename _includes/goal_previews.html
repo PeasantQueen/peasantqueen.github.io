@@ -1,0 +1,4 @@
+{% for goal in site.goals %}
+<h3><a href="{{ goal.url }}" title="goals page">{{ goal.title }}</a></h3>
+  <p>{{goal.summary}}</p>
+{% endfor %}
