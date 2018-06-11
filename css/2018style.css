@@ -122,10 +122,17 @@ a {
 .goal-sites {
 
 }
-.thumbnail {
+.thumbnail_h {
   border: 1px solid #C59432;
   border-radius: 4px;  /* Rounded border */
   padding: 5px;
   width: 150px;
-  vertical-align: text-top; 
+  vertical-align: text-top;
+}
+.thumbnail_v {
+  border: 1px solid #C59432;
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px;
+  height: 150px;
+  vertical-align: text-top;
 }
