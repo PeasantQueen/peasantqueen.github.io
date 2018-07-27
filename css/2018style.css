@@ -80,6 +80,7 @@ a {
 /* Position the image container (needed to position the left and right arrows) */
 .container {
 position: relative;
+width:300px;
 }
 .container-small {
 
@@ -208,13 +209,13 @@ position: relative;
   border: 1px solid #C59432;
   border-radius: 4px;  /* Rounded border */
   padding: 5px;
-  width: 150px;
+  width: 300px;
   vertical-align: text-top;
 }
 .thumbnail_v {
   border: 1px solid #C59432;
   border-radius: 4px;  /* Rounded border */
   padding: 5px;
-  height: 150px;
+  height: 300px;
   vertical-align: text-top;
 }
