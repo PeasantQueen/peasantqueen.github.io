@@ -103,6 +103,7 @@ width:700px;
 /* Hide the images by default */
 .mySlides {
   display: none;
+  border:1px black;
 }
 
 /* Add a pointer when hovering over the thumbnail images */
