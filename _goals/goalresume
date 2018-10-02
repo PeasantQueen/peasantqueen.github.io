@@ -1,0 +1,8 @@
+---
+layout: base
+title: "Resume"
+summary: "Danielle's Resume."
+---
+<h1>Resume</h1>
+<p><a href="{{site.baseurl}}/goals" title="goals landing page">Back to Goals</a>.</p>
+<p><a href="{{site.baseurl}}/DanielleOakesRESUME2018.pdf" title="resume" target="_blank"><img src="{{site.baseurl}}/MSLIS/resumesnip.JPG" alt="resume" class="thumbnail_v"></a></p>
