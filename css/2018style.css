@@ -79,7 +79,7 @@ a {
 /* Position the image container (needed to position the left and right arrows) */
 .container {
 position: relative;
-width:700px;
+width:70%;
 }
 .container-small {
 
@@ -91,7 +91,7 @@ width:700px;
 
 }
 .container-left {
-  width: 300px;
+  width: 30%;
 }
 .container-body {
   width: inherit;
@@ -183,7 +183,7 @@ width:700px;
   color: #5D379E;
 }
 .navbar-img {
-  width: 25px;
+  max-width: 100%;
 }
 .searchbox {
   display: block;
@@ -209,14 +209,12 @@ width:700px;
   border: 1px solid #C59432;
   border-radius: 4px;  /* Rounded border */
   padding: 5px;
-  width: 500px;
   vertical-align: text-top;
 }
 .thumbnail_v {
   border: 1px solid #C59432;
   border-radius: 4px;  /* Rounded border */
   padding: 5px;
-  height: 500px;
   vertical-align: text-top;
 }
 .mainthumb {
