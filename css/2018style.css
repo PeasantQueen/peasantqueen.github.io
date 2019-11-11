@@ -221,6 +221,7 @@ width:70%;
   border: 0px;
   margin: 1px;
   padding: 1px;
+  object-fit: cover;
 }
 .flex-container {
   display: flex;
