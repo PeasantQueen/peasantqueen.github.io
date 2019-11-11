@@ -9,6 +9,8 @@ body {
 }
 img {
   vertical-align: middle;
+  max-width: 100%;
+  height: auto;
 }
 h1 {
   color: #1A1129;
@@ -225,4 +227,10 @@ width:700px;
   margin: 1px;
   padding: 1px;
   height: 150px;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+    flex-wrap: nowrap;
+      justify-content: center;
 }
