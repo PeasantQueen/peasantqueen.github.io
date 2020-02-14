@@ -221,7 +221,8 @@ width:70%;
   border: 0px;
   margin: 1px;
   padding: 1px;
-  object-fit: contain;
+  width: 100px;
+  object-fit: scale-down;
 }
 .flex-container {
   display: flex;
