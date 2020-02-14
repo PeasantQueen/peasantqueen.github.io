@@ -221,8 +221,7 @@ width:70%;
   border: 0px;
   margin: 1px;
   padding: 1px;
-  width: 100px;
-  object-fit: scale-down;
+  object-fit: contain;
 }
 .socialbit {
   width: 10px;
