@@ -183,7 +183,7 @@ width:70%;
   color: #5D379E;
 }
 .navbar-img {
-  max-width: 100%;
+  max-width: 80px;
 }
 .searchbox {
   display: block;
@@ -224,7 +224,7 @@ width:70%;
   object-fit: contain;
 }
 .socialbit {
-  width: 10px;
+  width: 30px;
   object-fit: contain;
 }
 .flex-container {
